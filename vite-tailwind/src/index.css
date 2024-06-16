@@ -12,14 +12,6 @@
 
   main {
     @apply mx-auto my-4 grid w-[90%] grow bg-slate-50 p-4;
-    /* display: grid;
-    height: 100%;
-    width: 90%;
-    background-color: azure;
-    margin: 10px auto;
-    padding: 1rem;
-    justify-content: baseline;
-    align-items: start; */
   }
 
   footer {
