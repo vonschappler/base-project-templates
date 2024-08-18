@@ -24,7 +24,7 @@ This is just a set of default started files to help people in starting their own
 
 ---
 
-### Bootstraped with Vite@5.2.0 (`npx create-vite@5.2.0`):
+### Bootstraped with [Vite](https://vitejs.dev)@5.2.0 (`npx create-vite@5.2.0`):
 
 - [Base-Vite-5.2.0-NoTw](https://github.com/vonschappler/Base-Vite-5.2.0-NoTw/tree/main):
   This is basic template created to use for reference to Vite bootstrapped projects, without using Tailwind, focused in a single CSS file.
