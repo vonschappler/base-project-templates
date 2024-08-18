@@ -1,0 +1,24 @@
+[submodule "Base-HTML-CSS-JavaScript"]
+	path = Base-HTML-CSS-JavaScript
+	url = https://github.com/vonschappler/Base-HTML-CSS-JavaScript.git
+[submodule "Base-CRA-NoTw"]
+	path = Base-CRA-NoTw
+	url = https://github.com/vonschappler/Base-CRA-NoTw.git
+[submodule "Base-CRA-Tw"]
+	path = Base-CRA-Tw
+	url = https://github.com/vonschappler/Base-CRA-Tw.git
+[submodule "Base-Vite-5.2.0-NoTw"]
+	path = Base-Vite-5.2.0-NoTw
+	url = https://github.com/vonschappler/Base-Vite-5.2.0-NoTw.git
+[submodule "Base-Vite-5.2.0-Tw"]
+	path = Base-Vite-5.2.0-Tw
+	url = https://github.com/vonschappler/Base-Vite-5.2.0-Tw.git
+[submodule "Base-Vite-latest-NoTw"]
+	path = Base-Vite-latest-NoTw
+	url = https://github.com/vonschappler/Base-Vite-latest-NoTw.git
+[submodule "Base-Vite-latest-Tw"]
+	path = Base-Vite-latest-Tw
+	url = https://github.com/vonschappler/Base-Vite-latest-Tw.git
+[submodule "Base-NextJs"]
+	path = Base-NextJs
+	url = https://github.com/vonschappler/Base-NextJs.git
