@@ -58,7 +58,7 @@ This is just a set of default started files to help people in starting their own
 
 ---
 
-## Bootstrapped with [Next.js](https://nextjs.org) (`npx create-next-app`):
+### Bootstrapped with [Next.js](https://nextjs.org) (`npx create-next-app`):
 
 - [Base-NextJs](https://github.com/vonschappler/Base-NextJs/tree/main):
   This is basic template created to use for reference to Next.js bootstrapped projects, using Tailwind, focused in a single CSS file.
