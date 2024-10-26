@@ -22,3 +22,6 @@
 [submodule "Base-NextJs"]
 	path = Base-NextJs
 	url = https://github.com/vonschappler/Base-NextJs.git
+[submodule "Base-HTML-TW-JavaScript"]
+	path = Base-HTML-TW-JavaScript
+	url = https://github.com/vonschappler/Base-HTML-TW-JavaScript.git
