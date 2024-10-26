@@ -7,6 +7,7 @@ This is just a set of default started files to help people in starting their own
 ### HTML, CSS and JavaScript based:
 
 - [Base-HTML-CSS-JavaScript](https://github.com/vonschappler/Base-HTML-CSS-JavaScript/tree/main) - quick setup reference for basic structured page layouts, using "vanilla" **HTML**, **CSS** and **JavaScript**
+- [Base-HTML-TW-JavaScript](https://github.com/vonschappler/Base-HTML-TW-JavaScript/tree/main) - quick setup reference for basic structured page layouts, using TailwindCss. To use this refer the Readme file before working.
 
 ---
 
